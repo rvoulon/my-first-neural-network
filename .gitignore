@@ -9,5 +9,10 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+### HYUUUGE data files you probably DON'T want to push to github ###
+# You can get the train and test data from:
+# http://pjreddie.com/projects/mnist-in-csv/
+dataset/mnist_train.csv
+dataset/mnist_test.csv
 
 # End of https://www.gitignore.io/api/jupyternotebook
